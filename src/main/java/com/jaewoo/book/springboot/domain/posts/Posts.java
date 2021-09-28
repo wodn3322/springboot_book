@@ -4,7 +4,6 @@ import com.jaewoo.book.springboot.domain.BaseTimeEntity;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import sun.security.util.Length;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
